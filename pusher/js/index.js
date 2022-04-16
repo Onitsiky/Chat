@@ -12,7 +12,7 @@ window.addEventListener("DOMContentLoaded",function(){
         alert("Enter a message")
     };
     if(name.value != "" && message.value != ""){
-        $.post("message.php",{
+        $.post("../php/message.php",{
             name : name.value,
             message : message.value
         }, function (resp){
