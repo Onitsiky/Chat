@@ -25,8 +25,8 @@
             <button type="submit" class="btn btn-primary button ml-5 mt-2">Send</button>
         </div>
     </div>
-    <script src="./dev/pusher.min.js"></script>
-    <script src="./dev/jquery.min.js"></script>
-    <script src="./js/index.js"></script>
+    <script src="./pusher/dev/pusher.min.js"></script>
+    <script src="./pusher/dev/jquery.min.js"></script>
+    <script src="./pusher/js/index.js"></script>
 </body>
 </html>
